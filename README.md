@@ -101,6 +101,7 @@ Note: The depolyerAddress must contain certain L1 funds for fees.
  1\. Download the pre-configuration zip
 
  Link:
+ <a href="https://github.com/lucoadam/zkevm-setup/releases/download/v1.0/config.tar.gz">https://github.com/lucoadam/zkevm-setup/releases/download/v1.0/config.tar.gz</a>
 
  2\. Extract the zip and update sequencer.keystore,
  aggregator.keystore, test.genesis.config.json\
