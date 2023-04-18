@@ -86,7 +86,7 @@ Note: The depolyerAddress must contain certain L1 funds for fees.
 
  4\. Run the following script prepared serially.
 
-  ```
+  ```bash
   npm run prepare:ZkEVM:{L1} && npm run deploy:deployer:ZkEVM:{L1} && npm run deploy:ZkEVM:{L1} && npm run saveDeployment:{L1}              
   ```
 
@@ -107,7 +107,7 @@ Note: The depolyerAddress must contain certain L1 funds for fees.
  3\. Change the necessary configuration\
  
  Replace the values of following keys:\
- \
+ 
  ```
  L1URL=\
  URL=\
